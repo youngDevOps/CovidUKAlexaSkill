@@ -1,0 +1,38 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "CovidUK",
+      "types": [],
+      "intents": [
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "CovidUKCases",
+          "slots": [],
+          "samples": [
+            "Covid Cases UK",
+            "Number of Cases",
+            "Cases UK",
+            "Covid UK"
+          ]
+        }
+      ]
+    }
+  }
+}
